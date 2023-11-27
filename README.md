@@ -1,4 +1,6 @@
 # Global-Layoffs-Power-BI-Dashboard
+![IMG_20231127_181147](https://github.com/salonimeshram13/Global-Layoffs-Power-BI-Dashboard/assets/136232688/b2c9056f-2cd3-47c3-8ac2-61e2b9f10a3b)
+
 The Layoffs Analysis project revolves around creating an interactive Power BI dashboard using the dataset sourced from Kaggle that encapsulates layoffs data from year 2020 to 2023. 
 The objective is to build a visually engaging and insightful dashboard to analyze and present key metrics related to layoffs across industries, company sizes, regions, and reasons 
 for workforce reductions.
@@ -12,6 +14,10 @@ This dataset was made with the hope to enable Kaggle community to look into anal
 The data availability is from when COVID-19 was declared as a pandemic i.e. 11 March 2020 to present (16 October 2023).
 - #### Dataset link : https://www.kaggle.com/datasets/swaptr/layoffs-2022
 
+## Report Overview:
+![Worldwide_Layoffs](https://github.com/salonimeshram13/Global-Layoffs-Power-BI-Dashboard/assets/136232688/eff15919-1bd4-4acb-ba51-c9cdfccea975)
+
+
 
 ## The project will involve the following steps:
 
@@ -23,6 +29,7 @@ Designing an intuitive and user-friendly dashboard interface within Power BI. Th
 
 - #### Interactive Features:
 Implementing interactive features within the dashboard, such as filters, slicers, and drill-down options, to allow users to explore the data according to their specific interests. This will enable users to interactively delve deeper into specific segments or categories of layoffs.
+Created interactive buttons which navigated to the USA and INDIA layoff pages in the report to get deeper into Countrywise LayOffs analysis.
 
 
 
