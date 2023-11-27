@@ -34,6 +34,6 @@ Created interactive buttons which navigated to the USA and INDIA layoff pages in
 
 
 
-<br><br><br>The primary goal of this Power BI dashboard project is to present a comprehensive and interactive visual representation of layoffs data in 2022. By leveraging Power BI's capabilities, 
+<br><br><br>The primary goal of this Power BI dashboard project is to present a comprehensive and interactive visual representation of layoffs data from 2020 to 2023. By leveraging Power BI's capabilities, 
 the project aims to provide stakeholders with a valuable tool for understanding, exploring, and 
 gaining insights into the dynamics of layoffs across industries, geographical regions, and other relevant parameters.
